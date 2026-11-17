@@ -32,7 +32,6 @@ input, select { vertical-align:middle; font-weight:normal;}
 strong {font-size:12px; color:#444444;}
 
 a {color:#3d6f92; font-size:12px;}
-qqq {color:#3d6f92; font-size:16px;}
 
 /*main layout */
 .h_logo{ height:92px; width:100%;}
@@ -87,6 +86,8 @@ qqq {color:#3d6f92; font-size:16px;}
 .date {background:url(images/date_bg.gif) no-repeat 0 0; padding:2px 0 2px 22px; color:#444444;}
 
 li { color:#3d6f92;}
+ul.bullets {list-style:disc outside;}
+ul.bullets li {margin-bottom:12px;}
 li a {color:#3d6f92; font-size:11px;}
 
 .bot_line {background:url(images/h_text_bg.gif) bottom repeat-x;}
